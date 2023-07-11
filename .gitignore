@@ -1,0 +1,41 @@
+# Arquivos compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de ambiente virtual
+venv/
+env/
+env.bak/
+
+# Logs e arquivos temporários
+*.log
+*.swp
+.DS_Store
+*.tmp
+
+# Dependências e pacotes instalados
+/.venv/
+/lib/
+/pip-selfcheck.json
+
+# Arquivos gerados na execução
+/build/
+/dist/
+*.egg-info/
+
+# Arquivos de configuração pessoal
+config.ini
+
+# Arquivos de mídia e uploads
+media/
+
+# Arquivos de chave e segredos
+*.key
+*.pem
+
+# Outros
+.idea/
+.vscode/
+
+.env
